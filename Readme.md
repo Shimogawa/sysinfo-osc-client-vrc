@@ -1,4 +1,4 @@
-# sysinfo-osc-client
+# sysinfo-osc-client-vrc
 
 An OSC client that sends system information to an OSC server, most likely to VRChat.
 

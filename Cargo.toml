@@ -1,5 +1,6 @@
 [package]
-name = "sysinfo-osc-client"
+name = "sysinfo-osc-client-vrc"
+homepage = "https://github.com/Shimogawa/sysinfo-osc-client-vrc"
 authors = ["Rebuild"]
 description = "An OSC client that sends system information most likely to VRChat"
 version = "0.1.0"

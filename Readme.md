@@ -15,9 +15,9 @@ cargo build --release
 To display all info:
 
 ```bash
-sysinfo-osc-client
+sysinfo-osc-client-vrc
 # or
-./sysinfo-osc-client
+./sysinfo-osc-client-vrc
 # depends on your path
 ```
 
@@ -26,7 +26,7 @@ On Windows, you can also double click on the executable directly.
 For all options:
 
 ```bash
-sysinfo-osc-client --help
+sysinfo-osc-client-vrc --help
 ```
 
 Example message:
